@@ -1,5 +1,9 @@
 C3 Links, Foo
 ========
+Dashboard
+--------
+
+* http://dashboard.congress.ccc.de/
 
 Fahrplan
 --------
