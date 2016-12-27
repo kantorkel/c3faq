@@ -26,6 +26,10 @@ IRC
 
 * ircs://irc.hackint.org:9999
 
+Map
+------------
+* https://events.ccc.de/congress/2016/wiki/Static:CCH#Map_of_config_of_the_building
+
 Navigation
 ------------
 
