@@ -11,6 +11,11 @@ Fahrplan
 * http://fahrplan.events.ccc.de/
 * https://github.com/nexus511/33c3-fahrplan (Mirror)
 
+IRC
+------------
+
+* ircs://irc.hackint.org:9999
+
 Navigation
 ------------
 
